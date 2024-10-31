@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="design/popup.css"/>
+    <script src="js/ui/popup.js" type="module"></script>
+    <title></title>
+</head>
+<body>
+<div id="loading" style="display: none;">
+    <div class="loadtext shining" data-message="loadtext">Loading...</div>
+</div>
+<div id="identity-section">
+    <div id="identity-select-left">
+        <label class="dropdown-label" for="country-select">Country</label>
+        <div id="country-select" class="dropdown-container">
+            <div class="select-selected"></div>
+            <div class="select-items select-hide"></div>
+        </div>
+    </div>
+    <div id="identity-select-right">
+        <label class="dropdown-label" for="identity-select">Identity</label>
+        <div id="identity-select">
+            <ul>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="toggle-buttons">
+    <div class="toggle-button-area">
+        <div class="checkbox">
+            <input type="checkbox" id="status">
+            <label id="status-label" for="status" class="animated"></label>
+        </div>
+        <div id="status-text"></div>
+    </div>
+    <div class="toggle-button-area">
+        <div class="checkbox">
+            <input type="checkbox" id="safeshop">
+            <label id="safeshop-label" for="safeshop" class="animated"></label>
+        </div>
+        <div id="safeshop-text"></div>
+    </div>
+</div>
+</body>
+</html>

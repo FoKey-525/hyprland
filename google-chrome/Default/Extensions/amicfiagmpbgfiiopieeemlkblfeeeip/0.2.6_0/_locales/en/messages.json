@@ -1,0 +1,83 @@
+{
+   "extDescription": {
+      "message": "💲 Dark theme, offers auto-boosting, accurate price and other improvements for the FunPay marketplace"
+   },
+   "extName": {
+      "message": "FunPay Lite Bot"
+   },
+   "extSmallName": {
+      "message": "Lite Bot"
+   },
+   "raiseResponseHours": {
+      "message": "hour"
+   },
+   "raiseResponseMinutes": {
+      "message": "minute"
+   },
+   "raiseResponseSeconds": {
+      "message": "second"
+   },
+   "resetSettingsConfirm": {
+      "message": "Are you sure you want to reset settings?"
+   },
+   "settingCustomNotification": {
+      "message": "Custom notification sound"
+   },
+   "settingCustomNotificationDesc": {
+      "message": "Replaces the loud chat notification sound with the notification sound from VK."
+   },
+   "settingExactPrice": {
+      "message": "Exact price"
+   },
+   "settingExactPriceDesc": {
+      "message": "Adds fields to the lot editing window for entering the price displayed for both the seller and the buyer."
+   },
+   "settingNotifications": {
+      "message": "Notifications"
+   },
+   "settingOfferAutoRaise": {
+      "message": "Auto-raise offers"
+   },
+   "settingOfferAutoRaiseDesc": {
+      "message": "Automatically raises all your lots. Do not close your browser to work."
+   },
+   "settingOffers": {
+      "message": "Offers"
+   },
+   "settingOther": {
+      "message": "Other"
+   },
+   "settingTheme": {
+      "message": "Theme"
+   },
+   "settingThemeDark": {
+      "message": "Dark"
+   },
+   "settingThemeFirewatch": {
+      "message": "Firewatch"
+   },
+   "settingThemeLight": {
+      "message": "Light"
+   },
+   "settingsHideBalance": {
+      "message": "Hide balance display"
+   },
+   "settingsHideBalanceDesc": {
+      "message": "It can be useful when you need to share the screen, but do not want to show the account balance."
+   },
+   "settingsNotSaved": {
+      "message": "❌ Failed to save"
+   },
+   "settingsReset": {
+      "message": "Reset settings"
+   },
+   "settingsSaved": {
+      "message": "✔️ Saved"
+   },
+   "socialLinkDiscord": {
+      "message": "https://discord.gg/BNBX3q3Fj3"
+   },
+   "socialLinkTelegram": {
+      "message": "https://t.me/fplite"
+   }
+}

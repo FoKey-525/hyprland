@@ -1,0 +1,18 @@
+{
+  "main.js": "auto/sandbox.js",
+  "vendors-node_modules_graphql-tag_lib_index_js-node_modules_typeorm_browser_index_js.js": "auto/vendors-node_modules_graphql-tag_lib_index_js-node_modules_typeorm_browser_index_js.js",
+  "vendors.js": "auto/chunk-vendors.09744f53.js",
+  "resources.js": "auto/chunk-resources.a292b340.js",
+  "../../dist/libs/sql.js/worker.sql-asm-debug.js": "auto/../../dist/libs/sql.js/worker.sql-asm-debug.js",
+  "../../dist/libs/sql.js/sql-asm-debug.js": "auto/../../dist/libs/sql.js/sql-asm-debug.js",
+  "../../dist/libs/sql.js/sql-asm-memory-growth.js": "auto/../../dist/libs/sql.js/sql-asm-memory-growth.js",
+  "../../dist/libs/sql.js/worker.sql-asm.js": "auto/../../dist/libs/sql.js/worker.sql-asm.js",
+  "../../dist/libs/sql.js/sql-asm.js": "auto/../../dist/libs/sql.js/sql-asm.js",
+  "../../dist/libs/sql.js/sql-wasm-debug.wasm": "auto/../../dist/libs/sql.js/sql-wasm-debug.wasm",
+  "../../dist/libs/sql.js/sql-wasm.wasm": "auto/../../dist/libs/sql.js/sql-wasm.wasm",
+  "../../dist/libs/sql.js/worker.sql-wasm-debug.js": "auto/../../dist/libs/sql.js/worker.sql-wasm-debug.js",
+  "../../dist/libs/sql.js/sql-wasm-debug.js": "auto/../../dist/libs/sql.js/sql-wasm-debug.js",
+  "../../dist/libs/sql.js/worker.sql-wasm.js": "auto/../../dist/libs/sql.js/worker.sql-wasm.js",
+  "../../dist/libs/sql.js/sql-wasm.js": "auto/../../dist/libs/sql.js/sql-wasm.js",
+  "index.html": "auto/index.html"
+}

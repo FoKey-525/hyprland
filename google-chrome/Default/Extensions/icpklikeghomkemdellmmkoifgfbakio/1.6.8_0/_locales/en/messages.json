@@ -1,0 +1,35 @@
+{
+   "Options": {
+      "message": "Settings"
+   },
+   "activatePremium": {
+      "message": "Activate Premium-Code"
+   },
+   "activatePremiumSubmit": {
+      "message": "Activate"
+   },
+   "alreadyPremium": {
+      "message": "Premium is active"
+   },
+   "appDesc": {
+      "message": "anonymoX"
+   },
+   "appName": {
+      "message": "anonymoX"
+   },
+   "browserVersion": {
+      "message": "Browser"
+   },
+   "enterPremiumCode": {
+      "message": "Enter Code"
+   },
+   "premiumHelp": {
+      "message": "If you need help with activating the premium code,\nplease email us at"
+   },
+   "systemInfo": {
+      "message": "System Info"
+   },
+   "userName": {
+      "message": "Username"
+   }
+}

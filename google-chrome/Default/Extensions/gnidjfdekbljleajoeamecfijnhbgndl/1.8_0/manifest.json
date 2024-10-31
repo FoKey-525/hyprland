@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": "assets/icon.png",
+      "default_title": "__MSG_extName__"
+   },
+   "background": {
+      "service_worker": "bg.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "64": "assets/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnVifljVQe4b/JVzpAArx1a1HNpGHZgP5JuDzWaYDTL+6qItF9pudLOqhp0UWI+CDNs8v5m9nIUCsnCr/eAWALDwfTILzoYNuuRDGCepKza/C8c7Ry9F7UMlZfXNFcAO+LM/NsRepj7AJJZ4Pxd0YKEJS8Tmz6HYKOeCA3394zy8cliIerG+rDHsOwvGhM9DF9A8jrQqLvMHmTUSb/ZprAj/pqseksFn/VEar7dUE9QK9LSn0GmfknxFOc1J2sZtLXudITk4gykqKN1/K7Dv2Z1JFJijusW+li3fGMO/3xTtQrWRyJj5CMywf6Vyn8EbquyrwkzFHyw2DAdgn8myoOQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "options_page": "./options.html",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/*", "audio.js" ]
+   } ]
+}

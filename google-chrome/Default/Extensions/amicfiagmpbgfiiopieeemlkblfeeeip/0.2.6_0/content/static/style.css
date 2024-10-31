@@ -1,0 +1,7 @@
+/*
+FunPay Lite Bot
+Copyright (c) 2022-2024 Leonid Tsaruk aka NightStranger
+Source style.css
+Build b92eb51a-59ae-4af0-a7e2-364c0dd4e7da
+*/
+.LB-version{font-size:15px;font-weight:400;margin-left:15px}.lb-social{display:inline-block;float:right;position:absolute;z-index:101;right:250px}@media (min-width: 1999px){.lb-social{right:230px}}@media (min-width: 990px) and (max-width: 1200px){.lb-social{right:130px}}@media (max-width: 990px){.lb-social{right:10px}}

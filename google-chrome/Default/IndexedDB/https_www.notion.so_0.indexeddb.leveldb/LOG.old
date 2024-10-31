@@ -1,0 +1,26 @@
+2024/10/30-23:44:52.530 810 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/30-23:44:52.530 810 Recovering log #21
+2024/10/30-23:44:52.548 810 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000021.log 
+2024/10/30-23:44:53.251 810 Level-0 table #27: started
+2024/10/30-23:44:53.263 810 Level-0 table #27: 830950 bytes OK
+2024/10/30-23:44:53.264 810 Delete type=0 #21
+2024/10/30-23:44:53.265 810 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/30-23:46:38.218 811 Level-0 table #29: started
+2024/10/30-23:46:38.219 811 Level-0 table #29: 6966 bytes OK
+2024/10/30-23:46:38.220 811 Delete type=0 #26
+2024/10/30-23:46:38.220 811 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x02"\x01$\x005\x004\x003\x006\x00b\x00d\x00f\x008\x00-\x00d\x009\x006\x003\x00-\x004\x005\x009\x002\x00-\x009\x00e\x003\x00f\x00-\x009\x007\x003\x00f\x00c\x004\x00d\x008\x001\x00d\x00a\x009\x00\x03\x00\x00\x00\x00\x008\x83@' @ 28147 : 1
+2024/10/30-23:46:38.220 811 Compacting 1@0 + 1@1 files
+2024/10/30-23:46:38.227 811 Generated table #30@0: 11166 keys, 147799 bytes
+2024/10/30-23:46:38.227 811 Compacted 1@0 + 1@1 files => 147799 bytes
+2024/10/30-23:46:38.228 811 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/30-23:46:38.228 811 Delete type=2 #29
+2024/10/30-23:46:38.228 811 Delete type=2 #27
+2024/10/30-23:46:38.228 811 Manual compaction at level-0 from '\x00\x02\x02"\x01$\x005\x004\x003\x006\x00b\x00d\x00f\x008\x00-\x00d\x009\x006\x003\x00-\x004\x005\x009\x002\x00-\x009\x00e\x003\x00f\x00-\x009\x007\x003\x00f\x00c\x004\x00d\x008\x001\x00d\x00a\x009\x00\x03\x00\x00\x00\x00\x008\x83@' @ 28147 : 1 .. (end); will stop at (end)
+2024/10/30-23:46:38.228 811 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02"\x01$\x005\x004\x003\x006\x00b\x00d\x00f\x008\x00-\x00d\x009\x006\x003\x00-\x004\x005\x009\x002\x00-\x009\x00e\x003\x00f\x00-\x009\x007\x003\x00f\x00c\x004\x00d\x008\x001\x00d\x00a\x009\x00\x03\x00\x00\x00\x00\x008\x83@' @ 28147 : 1
+2024/10/30-23:46:38.228 811 Compacting 1@1 + 1@2 files
+2024/10/30-23:46:38.231 811 Generated table #31@1: 1902 keys, 68506 bytes
+2024/10/30-23:46:38.231 811 Compacted 1@1 + 1@2 files => 68506 bytes
+2024/10/30-23:46:38.232 811 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/30-23:46:38.232 811 Delete type=2 #24
+2024/10/30-23:46:38.232 811 Delete type=2 #30
+2024/10/30-23:46:38.232 811 Manual compaction at level-1 from '\x00\x02\x02"\x01$\x005\x004\x003\x006\x00b\x00d\x00f\x008\x00-\x00d\x009\x006\x003\x00-\x004\x005\x009\x002\x00-\x009\x00e\x003\x00f\x00-\x009\x007\x003\x00f\x00c\x004\x00d\x008\x001\x00d\x00a\x009\x00\x03\x00\x00\x00\x00\x008\x83@' @ 28147 : 1 .. (end); will stop at (end)

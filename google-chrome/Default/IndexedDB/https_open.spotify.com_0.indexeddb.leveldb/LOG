@@ -1,0 +1,7 @@
+2024/10/31-04:39:22.399 97c Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/31-04:39:22.399 97c Recovering log #3
+2024/10/31-04:39:22.399 97c Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2024/10/31-04:40:05.294 97b Level-0 table #5: started
+2024/10/31-04:40:05.297 97b Level-0 table #5: 325246 bytes OK
+2024/10/31-04:40:05.299 97b Delete type=0 #3
+2024/10/31-04:40:05.299 97b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

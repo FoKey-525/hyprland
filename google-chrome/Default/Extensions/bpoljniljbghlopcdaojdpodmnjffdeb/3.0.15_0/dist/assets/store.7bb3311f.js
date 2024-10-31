@@ -1,0 +1,1 @@
+import{f as defineStore}from"./popup.71dac307.js";const connectionStore=defineStore({id:"connectionStore",state:()=>({active:!1,busy:!1,host:""}),actions:{setActive(value){this.active=value},setBusy(value){this.busy=value},setHost(value){this.host=value},switch(){this.active=!this.active}}});export{connectionStore as c};
