@@ -1,3 +1,6 @@
-2024/10/31-23:16:01.911 6ff7 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/31-23:16:01.911 6ff7 Recovering log #138
-2024/10/31-23:16:01.912 6ff7 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000138.log 
+2024/10/31-23:55:19.678 906 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/31-23:55:19.678 906 Recovering log #138
+2024/10/31-23:55:19.681 906 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000138.log 
+2024/10/31-23:55:26.890 907 Level-0 table #143: started
+2024/10/31-23:55:26.900 907 Level-0 table #143: 1497292 bytes OK
+2024/10/31-23:55:26.902 907 Delete type=0 #138
