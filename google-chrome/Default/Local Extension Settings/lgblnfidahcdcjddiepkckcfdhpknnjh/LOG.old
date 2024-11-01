@@ -1,30 +1,3 @@
-2024/10/31-23:57:51.819 e92 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/lgblnfidahcdcjddiepkckcfdhpknnjh/MANIFEST-000001
-2024/10/31-23:57:51.819 e92 Recovering log #141
-2024/10/31-23:57:51.820 e92 Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/lgblnfidahcdcjddiepkckcfdhpknnjh/000141.log 
-2024/11/01-00:21:26.808 e91 Level-0 table #146: started
-2024/11/01-00:21:26.814 e91 Level-0 table #146: 767546 bytes OK
-2024/11/01-00:21:26.817 e91 Delete type=0 #141
-2024/11/01-00:29:20.175 e9d Compacting 1@1 + 1@2 files
-2024/11/01-00:29:20.183 e9d Generated table #147@1: 19 keys, 381781 bytes
-2024/11/01-00:29:20.183 e9d Compacted 1@1 + 1@2 files => 381781 bytes
-2024/11/01-00:29:20.184 e9d compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/01-00:29:20.185 e9d Delete type=2 #146
-2024/11/01-00:29:20.185 e9d Delete type=2 #143
-2024/11/01-11:20:49.894 e92 Level-0 table #149: started
-2024/11/01-11:20:49.901 e92 Level-0 table #149: 754991 bytes OK
-2024/11/01-11:20:49.903 e92 Delete type=0 #145
-2024/11/01-11:22:06.415 e92 Compacting 1@1 + 1@2 files
-2024/11/01-11:22:06.421 e92 Generated table #150@1: 19 keys, 379676 bytes
-2024/11/01-11:22:06.421 e92 Compacted 1@1 + 1@2 files => 379676 bytes
-2024/11/01-11:22:06.422 e92 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/01-11:22:06.423 e92 Delete type=2 #147
-2024/11/01-11:22:06.423 e92 Delete type=2 #149
-2024/11/01-11:32:03.818 e92 Level-0 table #152: started
-2024/11/01-11:32:03.826 e92 Level-0 table #152: 957261 bytes OK
-2024/11/01-11:32:03.828 e92 Delete type=0 #148
-2024/11/01-11:41:03.827 e92 Compacting 1@1 + 1@2 files
-2024/11/01-11:41:03.835 e92 Generated table #153@1: 19 keys, 379289 bytes
-2024/11/01-11:41:03.835 e92 Compacted 1@1 + 1@2 files => 379289 bytes
-2024/11/01-11:41:03.836 e92 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/01-11:41:03.836 e92 Delete type=2 #152
-2024/11/01-11:41:03.836 e92 Delete type=2 #150
+2024/11/01-14:19:14.907 7fcc Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/lgblnfidahcdcjddiepkckcfdhpknnjh/MANIFEST-000001
+2024/11/01-14:19:14.907 7fcc Recovering log #155
+2024/11/01-14:19:14.908 7fcc Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/lgblnfidahcdcjddiepkckcfdhpknnjh/000155.log 
