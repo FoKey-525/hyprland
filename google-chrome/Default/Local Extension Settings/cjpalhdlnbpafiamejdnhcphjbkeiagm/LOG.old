@@ -1,3 +1,9 @@
-2024/10/31-23:55:15.017 906 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/10/31-23:55:15.018 906 Recovering log #94
-2024/10/31-23:55:15.018 906 Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000094.log 
+2024/10/31-23:57:51.775 e91 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/10/31-23:57:51.775 e91 Recovering log #94
+2024/10/31-23:57:51.776 e91 Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000094.log 
+2024/11/01-11:31:42.036 e92 Level-0 table #98: started
+2024/11/01-11:31:42.054 e92 Level-0 table #98: 4256792 bytes OK
+2024/11/01-11:31:42.057 e92 Delete type=0 #94
+2024/11/01-11:32:38.672 e91 Level-0 table #100: started
+2024/11/01-11:32:38.721 e91 Level-0 table #100: 8567140 bytes OK
+2024/11/01-11:32:38.724 e91 Delete type=0 #97

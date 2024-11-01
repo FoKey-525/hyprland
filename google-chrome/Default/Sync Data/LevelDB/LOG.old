@@ -1,3 +1,36 @@
-2024/10/31-23:55:14.654 906 Reusing MANIFEST /home/user/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/10/31-23:55:14.654 906 Recovering log #139
-2024/10/31-23:55:14.655 906 Reusing old log /home/user/.config/google-chrome/Default/Sync Data/LevelDB/000139.log 
+2024/10/31-23:57:51.438 e91 Reusing MANIFEST /home/user/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/10/31-23:57:51.439 e91 Recovering log #139
+2024/10/31-23:57:51.439 e91 Reusing old log /home/user/.config/google-chrome/Default/Sync Data/LevelDB/000139.log 
+2024/11/01-00:13:08.747 e92 Level-0 table #143: started
+2024/11/01-00:13:08.750 e92 Level-0 table #143: 157709 bytes OK
+2024/11/01-00:13:08.752 e92 Delete type=0 #139
+2024/11/01-00:13:08.753 e92 Compacting 4@0 + 1@1 files
+2024/11/01-00:13:08.755 e92 Generated table #144@0: 162 keys, 28973 bytes
+2024/11/01-00:13:08.755 e92 Compacted 4@0 + 1@1 files => 28973 bytes
+2024/11/01-00:13:08.756 e92 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/01-00:13:08.757 e92 Delete type=2 #131
+2024/11/01-00:13:08.757 e92 Delete type=2 #137
+2024/11/01-00:13:08.757 e92 Delete type=2 #140
+2024/11/01-00:13:08.757 e92 Delete type=2 #143
+2024/11/01-00:13:08.757 e92 Delete type=2 #134
+2024/11/01-11:19:20.607 e9d Level-0 table #146: started
+2024/11/01-11:19:20.610 e9d Level-0 table #146: 114453 bytes OK
+2024/11/01-11:19:20.612 e9d Delete type=0 #142
+2024/11/01-11:26:52.707 e93 Level-0 table #148: started
+2024/11/01-11:26:52.710 e93 Level-0 table #148: 143345 bytes OK
+2024/11/01-11:26:52.712 e93 Delete type=0 #145
+2024/11/01-11:34:13.804 e91 Level-0 table #150: started
+2024/11/01-11:34:13.809 e91 Level-0 table #150: 105176 bytes OK
+2024/11/01-11:34:13.810 e91 Delete type=0 #147
+2024/11/01-12:45:39.815 e9f Level-0 table #152: started
+2024/11/01-12:45:39.819 e9f Level-0 table #152: 229454 bytes OK
+2024/11/01-12:45:39.821 e9f Delete type=0 #149
+2024/11/01-12:45:39.821 e9f Compacting 4@0 + 1@1 files
+2024/11/01-12:45:39.829 e9f Generated table #153@0: 168 keys, 36039 bytes
+2024/11/01-12:45:39.829 e9f Compacted 4@0 + 1@1 files => 36039 bytes
+2024/11/01-12:45:39.831 e9f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/01-12:45:39.832 e9f Delete type=2 #146
+2024/11/01-12:45:39.832 e9f Delete type=2 #148
+2024/11/01-12:45:39.832 e9f Delete type=2 #144
+2024/11/01-12:45:39.832 e9f Delete type=2 #152
+2024/11/01-12:45:39.832 e9f Delete type=2 #150

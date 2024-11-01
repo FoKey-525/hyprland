@@ -1,3 +1,25 @@
-2024/10/31-23:57:51.775 e91 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/10/31-23:57:51.775 e91 Recovering log #94
-2024/10/31-23:57:51.776 e91 Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000094.log 
+2024/11/01-13:44:55.213 61b4 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/11/01-13:44:55.213 61b4 Recovering log #99
+2024/11/01-13:44:55.213 61b4 Reusing old log /home/user/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000099.log 
+2024/11/01-13:45:52.097 61b6 Level-0 table #103: started
+2024/11/01-13:45:52.139 61b6 Level-0 table #103: 6047256 bytes OK
+2024/11/01-13:45:52.140 61b6 Delete type=0 #99
+2024/11/01-13:45:52.142 61b6 Compacting 4@0 + 1@1 files
+2024/11/01-13:45:52.156 61b6 Generated table #104@0: 4 keys, 2408231 bytes
+2024/11/01-13:45:52.171 61b6 Generated table #105@0: 6 keys, 2481594 bytes
+2024/11/01-13:45:52.182 61b6 Generated table #106@0: 2 keys, 2325671 bytes
+2024/11/01-13:45:52.227 61b6 Generated table #107@0: 2 keys, 4548308 bytes
+2024/11/01-13:45:52.233 61b6 Generated table #108@0: 9 keys, 1028082 bytes
+2024/11/01-13:45:52.233 61b6 Compacted 4@0 + 1@1 files => 12791886 bytes
+2024/11/01-13:45:52.235 61b6 compacted to: files[ 0 5 5 0 0 0 0 ]
+2024/11/01-13:45:52.235 61b6 Delete type=2 #100
+2024/11/01-13:45:52.235 61b6 Delete type=2 #98
+2024/11/01-13:45:52.235 61b6 Delete type=2 #95
+2024/11/01-13:45:52.235 61b6 Delete type=2 #93
+2024/11/01-13:45:52.235 61b6 Delete type=2 #103
+2024/11/01-13:45:52.238 61b6 Compacting 1@1 + 1@2 files
+2024/11/01-13:45:52.252 61b6 Generated table #109@1: 6 keys, 2425124 bytes
+2024/11/01-13:45:52.252 61b6 Compacted 1@1 + 1@2 files => 2425124 bytes
+2024/11/01-13:45:52.254 61b6 compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/11/01-13:45:52.254 61b6 Delete type=2 #104
+2024/11/01-13:45:52.254 61b6 Delete type=2 #86

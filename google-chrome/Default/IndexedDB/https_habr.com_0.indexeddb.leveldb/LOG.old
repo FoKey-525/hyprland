@@ -1,0 +1,7 @@
+2024/11/01-00:25:04.986 e91 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/01-00:25:04.986 e91 Recovering log #3
+2024/11/01-00:25:04.986 e91 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000003.log 
+2024/11/01-00:29:16.775 e92 Level-0 table #5: started
+2024/11/01-00:29:16.776 e92 Level-0 table #5: 6901 bytes OK
+2024/11/01-00:29:16.777 e92 Delete type=0 #3
+2024/11/01-00:29:16.777 e92 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
