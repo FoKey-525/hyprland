@@ -1,13 +1,14 @@
-2024/11/01-11:40:43.999 e91 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/01-11:40:43.999 e91 Recovering log #33
-2024/11/01-11:40:44.000 e91 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000033.log 
-2024/11/01-11:40:44.141 e91 Level-0 table #37: started
-2024/11/01-11:40:44.142 e91 Level-0 table #37: 541 bytes OK
-2024/11/01-11:40:44.143 e91 Delete type=0 #33
-2024/11/01-11:40:44.144 e91 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 28254 : 1
-2024/11/01-11:40:44.144 e91 Compacting 1@0 + 1@1 files
-2024/11/01-11:40:44.144 e91 Generated table #38@0: 11 keys, 495 bytes
-2024/11/01-11:40:44.144 e91 Compacted 1@0 + 1@1 files => 495 bytes
-2024/11/01-11:40:44.146 e91 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/01-11:40:44.146 e91 Delete type=2 #37
-2024/11/01-11:40:44.146 e91 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 28254 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/01-13:51:19.178 61b4 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/01-13:51:19.178 61b4 Recovering log #36
+2024/11/01-13:51:19.178 61b4 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000036.log 
+2024/11/01-13:51:19.178 61b4 Delete type=2 #34
+2024/11/01-13:51:20.167 61c0 Level-0 table #41: started
+2024/11/01-13:51:20.168 61c0 Level-0 table #41: 538 bytes OK
+2024/11/01-13:51:20.170 61c0 Delete type=0 #36
+2024/11/01-13:51:20.170 61b4 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 28273 : 1
+2024/11/01-13:51:20.170 61b4 Compacting 1@0 + 1@1 files
+2024/11/01-13:51:20.171 61b4 Generated table #42@0: 15 keys, 526 bytes
+2024/11/01-13:51:20.171 61b4 Compacted 1@0 + 1@1 files => 526 bytes
+2024/11/01-13:51:20.172 61b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/01-13:51:20.172 61b4 Delete type=2 #41
+2024/11/01-13:51:20.172 61b4 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 28273 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

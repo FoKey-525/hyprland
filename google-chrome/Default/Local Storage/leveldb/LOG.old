@@ -1,35 +1,3 @@
-2024/11/01-14:19:14.544 4 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/11/01-14:19:14.547 4 Recovering log #12
-2024/11/01-14:19:14.547 4 Level-0 table #15: started
-2024/11/01-14:19:14.549 4 Level-0 table #15: 14872 bytes OK
-2024/11/01-14:19:14.550 4 Delete type=0 #12
-2024/11/01-14:19:14.551 5 Compacting 4@0 + 1@1 files
-2024/11/01-14:19:14.553 5 Generated table #17@0: 16 keys, 8084 bytes
-2024/11/01-14:19:14.553 5 Compacted 4@0 + 1@1 files => 8084 bytes
-2024/11/01-14:19:14.554 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/01-14:19:14.554 5 Delete type=2 #15
-2024/11/01-14:19:14.555 5 Delete type=2 #9
-2024/11/01-14:19:14.555 5 Delete type=2 #11
-2024/11/01-14:19:14.555 5 Delete type=2 #7
-2024/11/01-14:19:14.555 5 Delete type=2 #13
-2024/11/01-14:20:46.477 5 Level-0 table #19: started
-2024/11/01-14:20:46.479 5 Level-0 table #19: 20455 bytes OK
-2024/11/01-14:20:46.480 5 Delete type=0 #16
-2024/11/01-14:23:24.503 4 Level-0 table #21: started
-2024/11/01-14:23:24.506 4 Level-0 table #21: 22927 bytes OK
-2024/11/01-14:23:24.508 4 Delete type=0 #18
-2024/11/01-14:25:57.251 5 Level-0 table #23: started
-2024/11/01-14:25:57.253 5 Level-0 table #23: 13262 bytes OK
-2024/11/01-14:25:57.255 5 Delete type=0 #20
-2024/11/01-14:27:57.251 5 Level-0 table #25: started
-2024/11/01-14:27:57.253 5 Level-0 table #25: 14093 bytes OK
-2024/11/01-14:27:57.255 5 Delete type=0 #22
-2024/11/01-14:27:57.255 5 Compacting 4@0 + 1@1 files
-2024/11/01-14:27:57.257 5 Generated table #26@0: 30 keys, 28022 bytes
-2024/11/01-14:27:57.257 5 Compacted 4@0 + 1@1 files => 28022 bytes
-2024/11/01-14:27:57.258 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/01-14:27:57.258 5 Delete type=2 #23
-2024/11/01-14:27:57.258 5 Delete type=2 #19
-2024/11/01-14:27:57.258 5 Delete type=2 #25
-2024/11/01-14:27:57.258 5 Delete type=2 #17
-2024/11/01-14:27:57.258 5 Delete type=2 #21
+2024/11/02-12:29:05.270 4 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/02-12:29:05.276 4 Recovering log #63
+2024/11/02-12:29:05.279 4 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000063.log 
