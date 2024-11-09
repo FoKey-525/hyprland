@@ -1,0 +1,161 @@
+00:00:00.001250 main     VirtualBox XPCOM Server 7.1.4 r165100 linux.amd64 (Oct 15 2024 16:00:51) release log
+00:00:00.001251 main     Log opened 2024-11-03T17:48:19.159517000Z
+00:00:00.001251 main     Build Type: release
+00:00:00.001252 main     OS Product: Linux
+00:00:00.001253 main     OS Release: 6.11.6-arch1-1
+00:00:00.001253 main     OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 01 Nov 2024 03:30:41 +0000
+00:00:00.001270 main     DMI Product Name: MS-7C56
+00:00:00.001276 main     DMI Product Version: 1.0
+00:00:00.001279 main     Firmware type: UEFI
+00:00:00.001337 main     Secure Boot: Disabled
+00:00:00.001358 main     Host RAM: 32022MB (31.2GB) total, 30710MB (29.9GB) available
+00:00:00.001359 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001359 main     Process ID: 1299
+00:00:00.001359 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003377 main     IPC socket path: /tmp/.vbox-user-ipc/ipcd
+00:00:00.028418 DCon01   VirtualBox: object creation starts
+00:00:00.029422 DCon01   Home directory: '/home/user/.config/VirtualBox'
+00:00:00.029993 DCon01   Loading settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.035172 DCon01   USB: Unknown USB device detected (idVendor: 0x3142, idProduct: 0x0080)
+00:00:00.035217 DCon01   Successfully initialised host USB using sysfs
+00:00:00.036846 DCon01   HostDnsMonitor: initializing
+00:00:00.036931 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.036938 DCon01   HostDnsMonitor: updating information
+00:00:00.036945 DCon01   HostDnsMonitor: old information
+00:00:00.036947 DCon01     no server entries
+00:00:00.036949 DCon01     no domain set
+00:00:00.036950 DCon01     no search string entries
+00:00:00.036951 DCon01   HostDnsMonitor: new information
+00:00:00.036953 DCon01     server 1: 192.168.0.1
+00:00:00.036954 DCon01     no domain set
+00:00:00.036956 DCon01     no search string entries
+00:00:00.039230 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.040315 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.042149 DCon01   Platform architecture set to 'x86'
+00:00:00.301095 DCon01   Loading settings file "/mnt/hdd/virtual_machines/windows11/windows11.vbox" with version "1.19-linux"
+00:00:00.301235 DCon01   Platform architecture set to 'x86'
+00:00:00.301651 DCon01   VirtualBox: object created
+00:00:00.844802 DCon03   NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:00.844822 DCon03   NvramStore: Loading 'efi/nvram' from archive
+00:00:00.913379 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.115812 DCon04   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.117545 DCon04   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:00:03.396145 DCon04   Platform architecture set to 'x86'
+00:00:03.400068 DCon04   NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:03.400076 DCon04   NvramStore: Loading 'efi/nvram' from archive
+00:00:03.764157 DCon02   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:04.450551 DCon02   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.453181 DCon02   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:00:07.120126 DCon02   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.123712 DCon02   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:00:13.319887 DCon02   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.323417 DCon02   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:00:39.337290 DCon05   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:39.340760 DCon05   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:01:04.305881 dns-monitor NAT: resolv.conf: nameserver 9.9.9.9
+00:01:04.305894 dns-monitor NAT: resolv.conf: nameserver 8.8.8.8
+00:01:04.305902 dns-monitor HostDnsMonitor: updating information
+00:01:04.305917 dns-monitor HostDnsMonitor: old information
+00:01:04.305920 dns-monitor   server 1: 192.168.0.1
+00:01:04.305923 dns-monitor   no domain set
+00:01:04.305925 dns-monitor   no search string entries
+00:01:04.305927 dns-monitor HostDnsMonitor: new information
+00:01:04.305929 dns-monitor   server 1: 9.9.9.9
+00:01:04.305932 dns-monitor   server 2: 8.8.8.8
+00:01:04.305934 dns-monitor   no domain set
+00:01:04.305936 dns-monitor   no search string entries
+00:03:17.930157 dns-monitor NAT: resolv.conf: nameserver 192.168.0.1
+00:03:17.930179 dns-monitor HostDnsMonitor: updating information
+00:03:17.930194 dns-monitor HostDnsMonitor: old information
+00:03:17.930196 dns-monitor   server 1: 9.9.9.9
+00:03:17.930199 dns-monitor   server 2: 8.8.8.8
+00:03:17.930201 dns-monitor   no domain set
+00:03:17.930204 dns-monitor   no search string entries
+00:03:17.930206 dns-monitor HostDnsMonitor: new information
+00:03:17.930208 dns-monitor   server 1: 192.168.0.1
+00:03:17.930210 dns-monitor   no domain set
+00:03:17.930212 dns-monitor   no search string entries
+00:03:18.924735 dns-monitor NAT: resolv.conf: nameserver 9.9.9.9
+00:03:18.924748 dns-monitor NAT: resolv.conf: nameserver 8.8.8.8
+00:03:18.924755 dns-monitor HostDnsMonitor: updating information
+00:03:18.924757 dns-monitor HostDnsMonitor: old information
+00:03:18.924759 dns-monitor   server 1: 192.168.0.1
+00:03:18.924762 dns-monitor   no domain set
+00:03:18.924764 dns-monitor   no search string entries
+00:03:18.924765 dns-monitor HostDnsMonitor: new information
+00:03:18.924767 dns-monitor   server 1: 9.9.9.9
+00:03:18.924769 dns-monitor   server 2: 8.8.8.8
+00:03:18.924771 dns-monitor   no domain set
+00:03:18.924772 dns-monitor   no search string entries
+00:03:23.969972 DCon07   Launched VM: 2214659888 pid: 2660 (0xa64) frontend: GUI/Qt name: windows11
+00:03:24.005700 DCon12   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:24.110667 DCon11   Platform architecture set to 'x86'
+00:03:24.127254 DCon10   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:24.455583 DCon11   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:03:24.615426 DCon12   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:03:24.810462 DCon12   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:24.811138 DCon12   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:24.811828 DCon12   HostDnsMonitorProxy::GetDomainName: no domain set
+00:03:24.811895 DCon12   HostDnsMonitorProxy::GetNameServers:
+00:03:24.811903 DCon12     name server 1: 9.9.9.9
+00:03:24.811904 DCon12     name server 2: 8.8.8.8
+00:03:24.811968 DCon12   HostDnsMonitorProxy::GetSearchStrings:
+00:03:24.811970 DCon12     no search string entries
+00:03:24.947523 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:03:25.445699 DCon14   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:25.447342 DCon14   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:03:27.911380 DCon09   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:27.914439 DCon09   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:03:32.419742 DCon07   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:32.423101 DCon07   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:03:44.786551 dns-monitor NAT: resolv.conf: nameserver 192.168.0.1
+00:03:44.786570 dns-monitor HostDnsMonitor: updating information
+00:03:44.786573 dns-monitor HostDnsMonitor: old information
+00:03:44.786575 dns-monitor   server 1: 9.9.9.9
+00:03:44.786578 dns-monitor   server 2: 8.8.8.8
+00:03:44.786580 dns-monitor   no domain set
+00:03:44.786582 dns-monitor   no search string entries
+00:03:44.786584 dns-monitor HostDnsMonitor: new information
+00:03:44.786585 dns-monitor   server 1: 192.168.0.1
+00:03:44.786587 dns-monitor   no domain set
+00:03:44.786589 dns-monitor   no search string entries
+00:03:44.786988 DCon07   HostDnsMonitorProxy::GetDomainName: no domain set
+00:03:44.787064 DCon07   HostDnsMonitorProxy::GetNameServers:
+00:03:44.787068 DCon07     name server 1: 192.168.0.1
+00:03:44.787140 DCon07   HostDnsMonitorProxy::GetSearchStrings:
+00:03:44.787144 DCon07     no search string entries
+00:07:07.251120 DCon14   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:07.254709 DCon14   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:07:16.520025 DCon09   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:16.522720 DCon09   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:07:17.319439 DCon14   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:17.322498 DCon14   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:07:17.726274 DCon14   Saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:07:17.729016 DCon14   Finished saving settings file "/home/user/.config/VirtualBox/VirtualBox.xml"
+00:08:17.751520 dns-monitor NAT: resolv.conf: nameserver 9.9.9.9
+00:08:17.751534 dns-monitor NAT: resolv.conf: nameserver 8.8.8.8
+00:08:17.751543 dns-monitor HostDnsMonitor: updating information
+00:08:17.751558 dns-monitor HostDnsMonitor: old information
+00:08:17.751560 dns-monitor   server 1: 192.168.0.1
+00:08:17.751562 dns-monitor   no domain set
+00:08:17.751564 dns-monitor   no search string entries
+00:08:17.751565 dns-monitor HostDnsMonitor: new information
+00:08:17.751567 dns-monitor   server 1: 9.9.9.9
+00:08:17.751569 dns-monitor   server 2: 8.8.8.8
+00:08:17.751571 dns-monitor   no domain set
+00:08:17.751572 dns-monitor   no search string entries
+00:08:17.751935 DCon07   HostDnsMonitorProxy::GetDomainName: no domain set
+00:08:17.752001 DCon07   HostDnsMonitorProxy::GetNameServers:
+00:08:17.752004 DCon07     name server 1: 9.9.9.9
+00:08:17.752007 DCon07     name server 2: 8.8.8.8
+00:08:17.752074 DCon07   HostDnsMonitorProxy::GetSearchStrings:
+00:08:17.752077 DCon07     no search string entries
+00:14:27.550020 main     Saving settings file "/mnt/hdd/virtual_machines/windows11/windows11.vbox" with version "1.19-linux"
+00:14:27.729262 main     Finished saving settings file "/mnt/hdd/virtual_machines/windows11/windows11.vbox"
+00:14:27.798540 Watcher  Reaper: Pid 2660 (0xa64) exited normally: 1 (0x1)
+00:14:32.550642 main     VirtualBox: object deletion starts
+00:14:32.550678 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/mnt/hdd/virtual_machines/windows11/windows11.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:32.551080 main     HostDnsMonitor: shutting down ...
+00:14:32.561995 main     HostDnsMonitor: shut down
+00:14:32.586098 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:14:32.586144 main     VirtualBox: object deleted

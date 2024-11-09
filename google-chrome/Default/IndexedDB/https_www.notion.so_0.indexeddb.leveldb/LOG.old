@@ -1,14 +1,14 @@
-2024/11/01-13:51:19.178 61b4 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/01-13:51:19.178 61b4 Recovering log #36
-2024/11/01-13:51:19.178 61b4 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000036.log 
-2024/11/01-13:51:19.178 61b4 Delete type=2 #34
-2024/11/01-13:51:20.167 61c0 Level-0 table #41: started
-2024/11/01-13:51:20.168 61c0 Level-0 table #41: 538 bytes OK
-2024/11/01-13:51:20.170 61c0 Delete type=0 #36
-2024/11/01-13:51:20.170 61b4 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 28273 : 1
-2024/11/01-13:51:20.170 61b4 Compacting 1@0 + 1@1 files
-2024/11/01-13:51:20.171 61b4 Generated table #42@0: 15 keys, 526 bytes
-2024/11/01-13:51:20.171 61b4 Compacted 1@0 + 1@1 files => 526 bytes
-2024/11/01-13:51:20.172 61b4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/01-13:51:20.172 61b4 Delete type=2 #41
-2024/11/01-13:51:20.172 61b4 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 28273 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/07-01:35:04.619 3d4 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-01:35:04.619 3d4 Recovering log #78
+2024/11/07-01:35:04.620 3d4 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000078.log 
+2024/11/07-01:35:04.620 3d4 Delete type=2 #76
+2024/11/07-01:35:05.254 3e2 Level-0 table #83: started
+2024/11/07-01:35:05.255 3e2 Level-0 table #83: 539 bytes OK
+2024/11/07-01:35:05.256 3e2 Delete type=0 #78
+2024/11/07-01:35:05.257 3e0 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 31800 : 1
+2024/11/07-01:35:05.257 3e0 Compacting 1@0 + 1@1 files
+2024/11/07-01:35:05.257 3e0 Generated table #84@0: 160 keys, 2359 bytes
+2024/11/07-01:35:05.257 3e0 Compacted 1@0 + 1@1 files => 2359 bytes
+2024/11/07-01:35:05.259 3e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-01:35:05.259 3e0 Delete type=2 #83
+2024/11/07-01:35:05.259 3e0 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 31800 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

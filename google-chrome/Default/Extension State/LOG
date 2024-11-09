@@ -1,3 +1,6 @@
-2024/11/02-12:30:03.184 806 Reusing MANIFEST /home/user/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2024/11/02-12:30:03.185 806 Recovering log #20
-2024/11/02-12:30:03.188 806 Reusing old log /home/user/.config/google-chrome/Default/Extension State/000020.log 
+2024/11/09-22:18:55.323 4f9 Reusing MANIFEST /home/user/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2024/11/09-22:18:55.324 4f9 Recovering log #42
+2024/11/09-22:18:55.356 4f9 Reusing old log /home/user/.config/google-chrome/Default/Extension State/000042.log 
+2024/11/09-22:21:27.592 4d2 Level-0 table #46: started
+2024/11/09-22:21:27.601 4d2 Level-0 table #46: 963653 bytes OK
+2024/11/09-22:21:27.604 4d2 Delete type=0 #42

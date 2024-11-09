@@ -1,3 +1,9 @@
-2024/11/01-13:47:10.211 61b4 Reusing MANIFEST /home/user/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/11/01-13:47:10.211 61b4 Recovering log #11
-2024/11/01-13:47:10.217 61b4 Reusing old log /home/user/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/000011.log 
+2024/11/07-22:42:53.924 6b70 Reusing MANIFEST /home/user/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/07-22:42:53.924 6b70 Recovering log #30
+2024/11/07-22:42:53.924 6b70 Reusing old log /home/user/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/000030.log 
+2024/11/07-22:43:00.685 6b71 Compacting 1@1 + 1@2 files
+2024/11/07-22:43:00.690 6b71 Generated table #33@1: 66 keys, 9193 bytes
+2024/11/07-22:43:00.690 6b71 Compacted 1@1 + 1@2 files => 9193 bytes
+2024/11/07-22:43:00.692 6b71 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/07-22:43:00.692 6b71 Delete type=2 #31
+2024/11/07-22:43:00.692 6b71 Delete type=2 #28

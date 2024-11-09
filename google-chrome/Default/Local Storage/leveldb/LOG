@@ -1,3 +1,17 @@
-2024/11/02-12:30:02.959 4 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/11/02-12:30:02.962 4 Recovering log #63
-2024/11/02-12:30:02.963 4 Reusing old log /home/user/.config/google-chrome/Default/Local Storage/leveldb/000063.log 
+2024/11/09-22:18:54.783 4 Reusing MANIFEST /home/user/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/09-22:18:54.788 4 Recovering log #1328
+2024/11/09-22:18:54.791 4 Level-0 table #1331: started
+2024/11/09-22:18:54.797 4 Level-0 table #1331: 14256 bytes OK
+2024/11/09-22:18:54.804 4 Delete type=0 #1328
+2024/11/09-22:20:34.137 5 Level-0 table #1334: started
+2024/11/09-22:20:34.140 5 Level-0 table #1334: 12433 bytes OK
+2024/11/09-22:20:34.142 5 Delete type=0 #1332
+2024/11/09-22:20:34.142 5 Compacting 4@0 + 1@1 files
+2024/11/09-22:20:34.156 5 Generated table #1335@0: 678 keys, 1366348 bytes
+2024/11/09-22:20:34.156 5 Compacted 4@0 + 1@1 files => 1366348 bytes
+2024/11/09-22:20:34.158 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/09-22:20:34.158 5 Delete type=2 #1327
+2024/11/09-22:20:34.158 5 Delete type=2 #1329
+2024/11/09-22:20:34.158 5 Delete type=2 #1324
+2024/11/09-22:20:34.158 5 Delete type=2 #1331
+2024/11/09-22:20:34.158 5 Delete type=2 #1334

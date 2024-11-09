@@ -1,0 +1,6 @@
+2024/11/04-20:03:53.694 43a Creating DB /home/user/.config/google-chrome/Default/IndexedDB/https_doka.guide_0.indexeddb.leveldb since it was missing.
+2024/11/04-20:03:53.697 43a Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_doka.guide_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/04-20:03:59.726 43a Level-0 table #5: started
+2024/11/04-20:03:59.727 43a Level-0 table #5: 827 bytes OK
+2024/11/04-20:03:59.728 43a Delete type=0 #3
+2024/11/04-20:03:59.728 43a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

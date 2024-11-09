@@ -1,3 +1,4 @@
-2024/11/02-12:30:02.957 813 Reusing MANIFEST /home/user/.config/google-chrome/Default/Site Characteristics Database/MANIFEST-000001
-2024/11/02-12:30:02.957 813 Recovering log #3
-2024/11/02-12:30:02.957 813 Reusing old log /home/user/.config/google-chrome/Default/Site Characteristics Database/000003.log 
+2024/11/09-22:18:54.786 4de Reusing MANIFEST /home/user/.config/google-chrome/Default/Site Characteristics Database/MANIFEST-000001
+2024/11/09-22:18:54.788 4de Recovering log #3
+2024/11/09-22:18:54.793 4de (ignoring error) /home/user/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 13 bytes; Corruption: missing start of fragmented record(2)
+2024/11/09-22:18:54.794 4de Reusing old log /home/user/.config/google-chrome/Default/Site Characteristics Database/000003.log 

@@ -6,7 +6,29 @@
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
+   }, {
+      "calculation_time": "13375290969074476",
+      "config_version": 2,
+      "model_version": "5",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 2,
+      "top_topics_and_observing_domains": [ {
+         "hashed_domains": [  ],
+         "topic": 267
+      }, {
+         "hashed_domains": [  ],
+         "topic": 624
+      }, {
+         "hashed_domains": [  ],
+         "topic": 382
+      }, {
+         "hashed_domains": [  ],
+         "topic": 407
+      }, {
+         "hashed_domains": [  ],
+         "topic": 570
+      } ]
    } ],
    "hex_encoded_hmac_key": "EEC0E869530065DC74D289A422EC3DD49D90B5C2B839F0C09545DD33BE02C0DF",
-   "next_scheduled_calculation_time": "13375268681475858"
+   "next_scheduled_calculation_time": "13375895769244817"
 }

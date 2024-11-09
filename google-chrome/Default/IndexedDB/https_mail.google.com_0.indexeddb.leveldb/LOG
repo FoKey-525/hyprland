@@ -1,3 +1,18 @@
-2024/10/30-22:05:25.152 839 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/30-22:05:25.152 839 Recovering log #3
-2024/10/30-22:05:25.153 839 Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/11/05-21:36:57.534 570e Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-21:36:57.534 570e Recovering log #3
+2024/11/05-21:36:57.542 570e Reusing old log /home/user/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/11/05-21:37:16.486 570c Level-0 table #5: started
+2024/11/05-21:37:16.506 570c Level-0 table #5: 3007252 bytes OK
+2024/11/05-21:37:16.508 570c Delete type=0 #3
+2024/11/05-21:38:41.256 570d Level-0 table #7: started
+2024/11/05-21:38:41.261 570d Level-0 table #7: 772430 bytes OK
+2024/11/05-21:38:41.263 570d Delete type=0 #4
+2024/11/05-21:38:41.263 570d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/05-21:38:41.263 570d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 2851 : 0
+2024/11/05-21:38:41.263 570d Compacting 1@1 + 1@2 files
+2024/11/05-21:38:41.269 570d Generated table #8@1: 77 keys, 143373 bytes
+2024/11/05-21:38:41.269 570d Compacted 1@1 + 1@2 files => 143373 bytes
+2024/11/05-21:38:41.270 570d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/05-21:38:41.271 570d Delete type=2 #5
+2024/11/05-21:38:41.271 570d Delete type=2 #7
+2024/11/05-21:38:41.271 570d Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 2851 : 0 .. (end); will stop at (end)

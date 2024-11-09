@@ -1,0 +1,6 @@
+2024/11/07-01:13:17.062 3d5 Creating DB /home/user/.config/google-chrome/Default/IndexedDB/https_www.fotor.com_0.indexeddb.leveldb since it was missing.
+2024/11/07-01:13:17.066 3d5 Reusing MANIFEST /home/user/.config/google-chrome/Default/IndexedDB/https_www.fotor.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-01:15:17.716 3d5 Level-0 table #5: started
+2024/11/07-01:15:17.717 3d5 Level-0 table #5: 2667 bytes OK
+2024/11/07-01:15:17.718 3d5 Delete type=0 #3
+2024/11/07-01:15:17.718 3d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,22 @@
+00:00:00.443570 VirtualBox GUI VM Selector Window 7.1.4 r165100 linux.amd64 (Oct 15 2024 16:00:51) release log
+00:00:00.443571 Log opened 2024-11-03T17:48:19.542279000Z
+00:00:00.443571 Build Type: release
+00:00:00.443572 OS Product: Linux
+00:00:00.443572 OS Release: 6.11.6-arch1-1
+00:00:00.443572 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 01 Nov 2024 03:30:41 +0000
+00:00:00.443585 DMI Product Name: MS-7C56
+00:00:00.443591 DMI Product Version: 1.0
+00:00:00.443595 Firmware type: UEFI
+00:00:00.443646 Secure Boot: Disabled
+00:00:00.443668 Host RAM: 32022MB (31.2GB) total, 30693MB (29.9GB) available
+00:00:00.443670 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.443670 Process ID: 1283
+00:00:00.443670 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.443682 Qt version: 6.8.0
+00:00:00.444803 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.450916 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.835489 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.852540 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 560x140 x 800x800
+00:00:00.852562 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 560x140 x 800x800
+00:00:10.945440 QDBus error. No screen saver service found among registered DBus services.GUI: UICommon: Handling aboutToQuit request..
+00:08:29.829059 GUI: UICommon: aboutToQuit request handled!

@@ -1,1 +1,0 @@
-import{a as bridgePopupBackground,O as LockedEvents}from"./popup.71dac307.js";function getLocked(){return bridgePopupBackground.emit(LockedEvents.GetLocked.Name)}async function dissableLocked(){await bridgePopupBackground.emit(LockedEvents.DissableLocked.Name)}export{dissableLocked as d,getLocked as g};
